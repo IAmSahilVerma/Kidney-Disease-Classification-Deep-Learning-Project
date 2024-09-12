@@ -24,6 +24,7 @@ list_of_files = [
     "setup.py",
     "research/EDA.ipynb",
     "templates/index.html",
+    "Readme.md",
 ]
 
 
